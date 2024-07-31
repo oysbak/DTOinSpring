@@ -1,0 +1,1 @@
+In application development, you can use many design patterns, including the DTO (Data Transfer Object) pattern. A DTO is a simple object that usually has only fields with getters and setters and doesn't hold any business logic. The fundamental purpose of a DTO is to provide the necessary data for transfer to a (remote) client.
